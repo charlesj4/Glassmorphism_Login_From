@@ -2,12 +2,13 @@
 <h1 align="center">Page Login with HTML5+CSS3+SCSS</h1>
 
 ## Descrição do Projeto
-<p align="center">Pagina de Login com Glassmorphism</p>
+<p align="center">Página de Login com Glassmorphism</p>
 
 <h2>Histórico das Etapas de Desenvolvimento / Changelog</h2>
 
 <p>## Version 0.0.0 21/06/22 - Teste Git Inicial;</p>
 <p>## Version 0.0.1 21/06/22 - Git INIT congiguração Inicial;</p>
+<p>## Version 0.0.2 21/06/22 - Git INIT congiguração II;</p>
 
 <h2>🛠 Tecnologias</h2>
 
