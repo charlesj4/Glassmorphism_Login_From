@@ -8,7 +8,7 @@
 
 <p>## Version 0.0.0 21/06/22 - Teste Git Inicial;</p>
 <p>## Version 0.0.1 21/06/22 - Git INIT congiguração Inicial;</p>
-<p>## Version 0.0.2 21/06/22 - Git INIT congiguração II;</p>
+<p>## Version 0.0.2 21/06/22 - Git INIT configuração II;</p>
 
 <h2>🛠 Tecnologias</h2>
 
