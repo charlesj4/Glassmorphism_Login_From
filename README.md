@@ -16,12 +16,12 @@
 
 <div style="display: inline_block"><br> 
 
-<img align="center" alt="HTML5" height="60" width="50" src="assets/img/logos/html5.png">
+<img align="center" alt="HTML5" height="64" width="64" src="assets/img/logos/html5.png">
 
-<img align="center" alt="CSS3" height="60" width="50" src="assets/img/logos/css3.png">
+<img align="center" alt="CSS3" height="64" width="64" src="assets/img/logos/css3.png">
 
-<img align="center" alt="SASS" height="60" width="50" src="assets/img/logos/sass.png">
+<img align="center" alt="SASS" height="64" width="64" src="assets/img/logos/sass.png">
 
-<img align="center" alt="GITHUB" height="60" width="50" src="assets/img/logos/github.png">
+<img align="center" alt="GITHUB" height="64" width="64" src="assets/img/logos/github.png">
 
 </div>
